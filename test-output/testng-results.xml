@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-05-14T14:56:32Z" name="Default suite" finished-at="2018-05-14T14:56:36Z" duration-ms="4156">
+    <groups>
+    </groups>
+    <test started-at="2018-05-14T14:56:32Z" name="Default test" finished-at="2018-05-14T14:56:36Z" duration-ms="4156">
+      <class name="winnium.notepad">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:winnium.notepad@4e3958e7]" started-at="2018-05-14T19:56:32Z" name="Setup" finished-at="2018-05-14T19:56:32Z" duration-ms="526" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="testcase()[pri:0, instance:winnium.notepad@4e3958e7]" started-at="2018-05-14T19:56:32Z" name="testcase" finished-at="2018-05-14T19:56:34Z" duration-ms="1346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:winnium.notepad@4e3958e7]" started-at="2018-05-14T19:56:34Z" name="TearDown" finished-at="2018-05-14T19:56:36Z" duration-ms="2273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- winnium.notepad -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
