@@ -28,7 +28,7 @@ public class notepad {
 	 @Test
 	 public void testcase ()
 	 {
-	  driver.findElementByClassName("Edit").sendKeys("Kushan's Winnium Test");
+	  driver.findElementByClassName("Edit").sendKeys("Vicky's Winnium Test");
 	 }
 	 
 	 @AfterClass 
